@@ -15,8 +15,8 @@ input[type="number"] {
 
 .bg-gradient {
   background: radial-gradient(
-    97.8% 63.1% at 2.1999999999999997% 0%,
+    1% 10% at 50% 0%,
     rgb(var(--color-background-glow)) 0%,
-    rgb(var(--color-background-light)) 100%
+    rgb(var(--color-background-light)) 50%
   );
 }
